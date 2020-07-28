@@ -1,4 +1,4 @@
-### Hi there 👋, <br> Tushar here.
+## Hi there 👋, <br> Tushar here.
 
 <!--
 **Tushar-OP/Tushar-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +40,7 @@ Contact here,
 <br>
 
 Now for the stats, wait <em>whaaat?</em> <b>The scouter says 9000!<b>
+ <br>
 
 No not really XD,
 
